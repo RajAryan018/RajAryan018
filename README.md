@@ -8,7 +8,7 @@
 <!-- <img align="right" alt="img" width="30%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img> -->
 <img align="right" alt="img" width="40%" src=images/Programming-amico.svg></img>
 
--⁠  ⁠🏫 Pursuing my Bachelor's in Computer Engineering from **Bharati Vidyapeeth College of Engineering, Pune**
+-  ⁠🏫 Pursuing my Bachelor's in Computer Engineering from **Bharati Vidyapeeth College of Engineering, Pune**
 -⁠  ⁠📖 Learning **React**, **JavaScript** and **Machine Learning**
 -  ⁠🌱 I’m constantly learning and exploring my interest in Machine Learning and Web Development.
 -  📧 ⁠You can shoot me an email at **rajaryan120701@gmail.com**
