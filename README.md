@@ -17,9 +17,9 @@
 ### 🤝Connect with me here
 <!-- <p align="center"> -->
 	
-	<a href="https://www.linkedin.com/in/rajaryan12/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
+<a href="https://www.linkedin.com/in/rajaryan12/">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="https://www.facebook.com/profile.php?id=100008265706184">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
