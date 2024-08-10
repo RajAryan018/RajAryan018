@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Raj Aryan</h1>
 
 <!-- <img align="right" alt="img" width="30%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img> -->
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=250 width=350 align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 -  ⁠🏫 Pursuing my Bachelor's in Computer Engineering from **Bharati Vidyapeeth College of Engineering, Pune**
 -  ⁠📖 Learning **React**, **JavaScript** and **Machine Learning**
